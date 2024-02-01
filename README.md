@@ -14,7 +14,7 @@ Simply click on the links below to explore each visualization on Tableau Public.
 ## Table of Contents
 
 - [Visualization 1: Education Company Sales](https://public.tableau.com/app/profile/hyug.her/viz/EducationCompanyAnalysis/EduCompanySalesDashboard)
-- 
+
 
 ## Contributing
 
